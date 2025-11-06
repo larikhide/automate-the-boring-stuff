@@ -1,7 +1,7 @@
 print("Hello, world!")
 print("What is your name?")
 my_name = input('>')
-print("Is is good to meet you " + my_name)
+print("Is is good to meet you, " + my_name)
 print("The lenght of your name is:", len(my_name))
 print("What is your age?")
 my_age = input('>')
